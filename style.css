@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(222, 233, 245);
+    color: rgb(29, 122, 6);
+    text-align: center;
+}
+h2{
+  background-color: rgb(236, 226, 165);
+}
+#imagem-turma{
+    width: 50%;
+}
